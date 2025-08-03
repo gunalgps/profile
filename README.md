@@ -1,58 +1,40 @@
-# 👋 Hi there! I'm Diya Agarwal
+# 👋 Hi there! I'm Gunal p
 
 Welcome to my GitHub! I'm a passionate problem solver, tech enthusiast, and hands-on learner with experience in retail, customer service, and growing skills in real-time Android & IoT applications, Java development, and wireless sensor networks (WSN) research.
 
 ---
 
-### 🧠 About Me
-- 🔭 Currently building: **Smart Helmet System** for accident detection using ESP, GPS, Android & Firebase
-- 🎯 Focused on: **Real-time apps**, **Wireless Sensor Networks (WSNs)**, **Routing Algorithms**, and **Java Projects**
-- 💡 Love exploring: AI for optimization, clustering algorithms, and reinforcement learning in sensor networks
-- 🌱 Learning: Advanced Android, SQL integration, Firebase, and clustering protocols (like SHEAR & RLDCSSA-CDG)
-- 🧰 Tools & Tech: Java | Android Studio | Firebase | SQL | ESP32 | Git | VS Code | Canva | Photoshop
+Project :
+Completed:
+1.Detection and Indication of Accidents using IOT based Smart Helmet, 
+•	Designed and developed an IoT-enabled smart helmet that detects accidents using vibration and motion sensors (accelerometer/gyroscope), and transmits real-time crash data from the ESP32 microcontroller to a web application using Wi-Fi
+•	Developed a responsive web application (HTML, CSS, JavaScript) to display real-time sensor data, crash alerts, and system status
+2. Hangman Game, 
+•	Built a fully interactive console-based Hangman game featuring real-time user input and feedback
+•	Implemented game logic for random word selection, input validation, and win/loss tracking And Integrated an SQL database to store and retrieve word lists and corresponding hints dynamically
+Currently Working On:
+
 
 ---
 
-### 💼 Work Experience
-**Retail Sales Associate** @ ZARA, New Delhi (2017–Present)  
-📈 Boosted sales by 10% via upselling & customer rapport  
-🔒 Prevented losses with accurate inventory tracking and financial handling
+  Tool and kit Used:
+ Detection and Indication of Accidents using IOT based Smart Helmet =Location Alert website  with ESP32 signal trigger 
+ Hangman Game =Java + SQL 
 
-**Barista** @ Dunkin' Donuts (2015–2017)  
-🍩 Upsold seasonal items, improving weekly sales  
-🎓 Trained 15+ staff in new programs
-
-**Cashier** @ McDonald’s (2014–2015)  
-💵 Efficient POS operation, fast service  
-🛍️ Maintained clean and orderly food service
-
----
-
-### 📚 Education & Certifications
-- Diploma in Financial Accounting  
-  *Oxford Software Institute & Oxford School of English*  
-- C2 English Proficient | Native Hindi | B2 Bengali
-
----
-
-### 🛠️ Projects & Interests
-- **📲 Location Alert Android App** with ESP32 signal trigger & Firebase integration
-- **🎮 Hangman Game** (Java + SQL) with difficulty levels
-- **📊 Real-time Sound Alert System** for noise detection using ESP32
-- **📡 SHEAR & RLDCSSA-CDG-based Protocol Simulations** in WSN environments
+  
 
 ---
 
 ### 📈 My LeetCode Progress
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Baloo)](https://leetcode.com/your-leetcode-username)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Baloo)](https://leetcode.com/your-leetcode-gunal-gps)
 
 ---
 
 ### 🤝 Let’s Connect!
-- 📧 d.agarwal@sample.in
-- 🌍 New Delhi, India
-- 🏃 Football | 🩺 Red Cross Volunteer | 🚑 CPR & First Aid Certified
+- Linkedin:https://www.linkedin.com/in/gunal-palani/
+- 🌍 Puducherry, India
+- 🏃 Football | Cricket | Software Devolper 
 
 ---
 

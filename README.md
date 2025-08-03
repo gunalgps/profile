@@ -1,43 +1,83 @@
-# 👋 Hi there! I'm Gunal p
+# 👋 Hello, I'm Gunal P
 
-Welcome to my GitHub! I'm a passionate problem solver, tech enthusiast, and hands-on learner with experience in retail, customer service, and growing skills in real-time Android & IoT applications, Java development, and wireless sensor networks (WSN) research.
-
----
-
-Project :
-Completed:
-1.Detection and Indication of Accidents using IOT based Smart Helmet, 
-•	Designed and developed an IoT-enabled smart helmet that detects accidents using vibration and motion sensors (accelerometer/gyroscope), and transmits real-time crash data from the ESP32 microcontroller to a web application using Wi-Fi
-•	Developed a responsive web application (HTML, CSS, JavaScript) to display real-time sensor data, crash alerts, and system status
-2. Hangman Game, 
-•	Built a fully interactive console-based Hangman game featuring real-time user input and feedback
-•	Implemented game logic for random word selection, input validation, and win/loss tracking And Integrated an SQL database to store and retrieve word lists and corresponding hints dynamically
-Currently Working On:
-
+🚀 Enthusiastic Electronics & Communication undergrad | 💻 Aspiring Full Stack Developer | 🧠 Consistent Problem Solver on LeetCode  
+📍 Puducherry, India | 🎓 B.Tech, Sri Manakula Vinayagar Engineering College (2022–2026)
 
 ---
 
-  Tool and kit Used:
- Detection and Indication of Accidents using IOT based Smart Helmet =Location Alert website  with ESP32 signal trigger 
- Hangman Game =Java + SQL 
+### 💡 About Me
 
-  
+I'm a **dedicated and adaptable** tech enthusiast with strong communication skills and a knack for learning fast. I enjoy solving complex problems and building real-world solutions using **Java, Python, Web Development, SQL, and IoT**.
 
 ---
 
-### 📈 My LeetCode Progress
+### ⚙️ Skills
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Baloo)](https://leetcode.com/your-leetcode-gunal-gps)
+**💻 Technical:**  
+`Java` · `Python` · `SQL` · `Web Development (HTML, CSS, JS)` · `Data Structures & Algorithms` · `OOPs` · `Git & GitHub`
 
----
-
-### 🤝 Let’s Connect!
-- Linkedin:https://www.linkedin.com/in/gunal-palani/
-- 🌍 Puducherry, India
-- 🏃 Football | Cricket | Software Devolper 
+**🧠 Soft Skills:**  
+Problem Solving · Teamwork · Adaptability · Analytical Thinking
 
 ---
 
-### 🧾 Fun Fact
-I captained my recreational football team to **two league championships** and love building systems that help people in **real-time emergency response**.
+### 📘 Education
 
+- 🎓 **B.Tech in Electronics & Communication Engineering**  
+  Sri Manakula Vinayagar Engineering College — *GPA: 7.66/10*  
+- 🏫 Alpha Higher Secondary School — *63.8%*  
+- 🏫 Petit Seminaire Higher Secondary School — *83%*
+
+---
+
+### 🛠️ Projects
+
+#### 🪖 Smart Helmet IoT System
+> *Detection and Indication of Accidents using IoT-based Smart Helmet*  
+- Developed a hardware+software system with **ESP32**, **accelerometer/gyroscope sensors**
+- Real-time crash data transmitted via **Wi-Fi**
+- Designed a responsive **web dashboard** to show sensor data & alerts
+
+#### 🎮 Hangman Game with SQL
+- Built a console-based **Hangman game** in Java with SQL integration
+- Implemented random word logic, user input validation, hint system
+- Dynamically stored and retrieved word/hint pairs from database
+
+---
+
+### 🏅 Achievements & Certifications
+
+- 🥈 **NPTEL Silver Medalist** – Introduction to IoT (IIT certified)
+- 🧠 **3rd Prize** – Technical Quiz, Pondicherry University
+- 🎓 **Java Programming** – Coursera
+- 🐍 **Python Hands-On Project Training** – Certified
+
+---
+
+### 🌐 Area of Interest
+
+- Web Development 🌍  
+- Software Development 💻  
+- Real-time IoT Applications ⚙️  
+
+---
+
+### 💻 My LeetCode Progress
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/gunal-gps?theme=dark&font=Baloo)](https://leetcode.com/u/gunal-gps/)
+
+---
+
+### 📫 Contact Me
+
+- 📧 gunalpalani1@gmail.com
+- 🌐 [GitHub](https://github.com/gunalgps)
+- 🔗 [LinkedIn](https://linkedin.com/in/gunal-palani)
+- 📍 Puducherry, India
+
+---
+
+### 🗣️ Quote I Believe In
+> "The expert in anything was once a beginner."
+
+Thanks for visiting my profile! 😊 Let's connect and grow together 🚀

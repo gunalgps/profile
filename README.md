@@ -24,9 +24,9 @@ Problem Solving · Teamwork · Adaptability · Analytical Thinking
 ###  Education
 
 - **B.Tech in Electronics & Communication Engineering**  
-  Sri Manakula Vinayagar Engineering College — *GPA: 7.66/10*  
-- Alpha Higher Secondary School — *63.8%*  
--  Petit Seminaire Higher Secondary School — *83%*
+  Sri Manakula Vinayagar Engineering College — *GPA: 7.6/10*  
+- Alpha Higher Secondary School — *81%*  
+-  Petit Seminaire Higher Secondary School — *63.8%*
 
 ---
 
